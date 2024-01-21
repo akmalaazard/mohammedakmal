@@ -1,0 +1,15 @@
+.body{
+  margin: 0%;
+}
+
+.box1{
+  width: 390px;
+  margin: 5px;
+  text-align: center;
+  color: black;
+  font-family: sans-serif;
+  border: solid 1px black;
+  display: inline-block;
+  border-top-right-radius: 10%;
+  border-top-left-radius: 10%;
+}
